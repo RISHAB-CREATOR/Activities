@@ -45,15 +45,15 @@ presence.on('UpdateData', async () => {
       smallImageKey: Assets.Viewing,
     },
     '/livetv': {
-      details: 'Watching Live TV 📶',
+      details: 'Browsing Live TV 📶',
       smallImageKey: Assets.Viewing,
     },
     '/sports': {
-      details: 'Watching Sports ⚽',
+      details: 'Live Sports ⚽',
       smallImageKey: Assets.Viewing,
     },
     '/games': {
-      details: 'Playing Games 🎮',
+      details: 'Browsing Games 🎮',
       smallImageKey: Assets.Viewing,
     },
   }
